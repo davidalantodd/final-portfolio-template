@@ -1,11 +1,16 @@
 ## Project #3
 Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
+- Questions to consider:
+    - What are the users?
+    - What job does it form for them?
+    - What inspired you to make it?
+    - What features are the most important?
+- STAR Interview Questions:
+    - (Situation) Describe the application and why you created this program
+    - (Task) Describe the overall structure of your application and the design process prior to building the program
+    - (Action) Explain the code you wrote to achieve your desired result
+    - (Result) Showcase your final application with its functionality
 - Include relevant screenshots
-
 ## Technologies
 - List all technologies and versions here
 - Include dependencies and versions
